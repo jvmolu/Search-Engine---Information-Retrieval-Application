@@ -1,7 +1,4 @@
-# Search Engine:
-
-**Dataset description:**
-https://drive.google.com/file/d/14Tznlit4dbtxGn4FKaOc6IfbHU8rAMva/view?usp=sharing
+# Search Engine based on Information Retrieval Concepts 🔎📚:
 
 ## Part 1: 
 
