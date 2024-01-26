@@ -1,4 +1,4 @@
-# Search Engine based on Information Retrieval Concepts 🔎📚:
+# Search Engine 🔎📚:
 
 ## Part 1: 
 
